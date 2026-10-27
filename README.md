@@ -1,2 +1,3 @@
-# youtube-summary-tool
-Herramienta web interactiva para transcripción y resumen automático de videos de YouTube con pasarela de pago integrada.
+# YouTube Summary & Transcript Pro
+
+Herramienta web gratuita y de pago para transcripción y resumen automático de videos de YouTube.
